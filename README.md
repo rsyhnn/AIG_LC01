@@ -1,2 +1,10 @@
 # Tugas_AIG_LC01
 Project kelas teori 
+
+Anggota :
+Rasya Hanifah Hanan - 2101659403 - LinkedIn: https://id.linkedin.com/in/rasya-hanifah-hanan
+Erlando Bony Fachius Silalahi - 2101662852 - LinkedIn: https://id.linkedin.com/in/erlando-silalahi
+Bernardus Joshua Otto Prayoga - 2101665236 - LinkedIn: https://id.linkedin.com/in/bernardus-yoga-6b0b50155
+Vincent Bernard - 2101681624 - LinkedIn: https://id.linkedin.com/in/vincent-bernard-5b723514b
+Andira Rifa Ranubadja - 2101702566 - LinkedIn:
+Max Michael Kevin - 2101698695 - LinkedIn : 
