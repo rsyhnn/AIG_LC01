@@ -1,4 +1,4 @@
-# Tugas_AIG_LC01
+# AIG_LC01
 Project kelas teori 
 
 Anggota :
